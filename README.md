@@ -2,6 +2,9 @@
 
 For this problem, I leveraged the national math proficiency scores to identify districts for budget cuts. Becuase I leveraged a common method for determing districts budgets, each district that met the criteria for budget cuts had a common reduction in federal funding of just under <span style="color:blue">*40%*</span>. This affected about <span style="color:blue">*5K*</span> districts out of the ~16K total.
 
+### 40% cut across hig performing districts
+### Affected ~5k districts
+
 
 
 ## Problem 2
